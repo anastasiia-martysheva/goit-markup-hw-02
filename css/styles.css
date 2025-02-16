@@ -28,13 +28,12 @@ button{
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
+        color: #4d5ae5;    
 }
 
 .logo-text-span {
     color: #2e2f42;
 }
-
 .nav-list-header {}
 
 .nav-header-item {}
@@ -219,17 +218,17 @@ button{
     background-color: #2e2f42;
 }
 .logo-footer {
-        font-family: "Releway", sans-serif;
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
-.logo-text-span {
-        color: #4d5ae5;
+.logo-text-span-footer {
+        color: #f4f4fd;
 }
 
 .footer-text {
