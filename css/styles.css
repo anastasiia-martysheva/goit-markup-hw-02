@@ -22,15 +22,16 @@ button{
 .nav-header {}
 
 .logo-header { 
+        font-family: "Releway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
 }
 
-.logo-text {
+.logo-text-span {
     color: #2e2f42;
 }
 
@@ -142,7 +143,7 @@ button{
 .team-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -185,6 +186,7 @@ button{
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .portfolio-list {
@@ -216,15 +218,16 @@ button{
     background-color: #2e2f42;
 }
 .logo-footer {
+        font-family: "Releway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
 }
 
-.logo-text {
+.logo-text-span {
         color: #4d5ae5;
 }
 
